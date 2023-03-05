@@ -1,0 +1,142 @@
+.Nav{
+margin-left: 0px;
+background-color: #0065c3;
+width: 100%;
+}
+.logo:hover{
+    opacity: .3;
+    
+
+}
+.navtext{
+    font: 14px;
+
+    font-family:Helvetica Neue, Helvetica, Arial, sans-serif;
+    color: white;
+    cursor: pointer;
+ 
+  
+}
+.pepbutton{
+    background-color: #0065c3;
+    border-color: white;
+    border-radius: 200px;
+}
+.pepbutton:hover{
+color:#0065c3;
+background-color: white;
+border: 0;
+}
+.can{
+   margin-top: -90px;
+   margin-left: 10%;
+}
+.main{
+    margin-top: 0px;
+    background-color: black;
+    display: flex;
+}
+.zero{
+    margin-top: 90px;
+    margin-left:-190px;
+}
+
+.imp{
+    margin-left: -700px;
+    margin-top: -340px;
+}
+.main2{
+    background-image: url(./pcs/Desktop_Background.png);
+    background-repeat: no-repeat;
+    
+ 
+}
+.prod{
+    margin-top: 20px;
+}
+.av{
+    margin-left: 30px;
+    background-color: #0065c3;
+}
+.mangohead{
+    background-color: #0065c3;
+
+}
+.mgo{
+    margin-left: 278px;
+}
+.slide{
+    margin-top: -450px;
+}
+.twil{
+    margin-top: -10px;
+    background-color: #0065c3;
+    display: flex;
+    background-repeat: no-repeat;
+}
+.headl2{
+    margin-top: 50px;
+    margin-left: 200px;
+}
+.promotion{
+    background-color: #0065c3;
+    background-repeat: no-repeat;
+    display: flex;
+    height: 25pc;
+}
+.promo{
+    margin-top: 50px;
+    margin-left: 100px;
+}
+.promo>h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+    text-decoration: solid;
+    font-weight: bolder;
+}
+.promo2{
+    margin-top: 70px;
+    margin-left: 200px;
+}
+.footer{
+    background-color: #0065c3;
+    margin-top: 30px;
+    display: flex;
+}
+.fl{ color: white;
+    margin-top: 80px;
+    margin-bottom: 80px;
+    margin-left: 120px;
+}
+.flo{
+    margin-top: 60px;
+    margin-bottom: 80px;
+    margin-left: 80px;
+}
+.flb{
+    margin-top: 40px;
+    margin-bottom: 80px;
+    margin-left: 120px;
+}
+.fb{
+    background-color: white;
+}
+.yt:hover{
+    opacity: 0.3;
+}
+.tt:hover{
+    opacity: 0.3;
+}
+.fbb:hover{
+    opacity: 0.3;
+}
+.in:hover{
+    opacity: 0.3;
+}
+.tw:hover{
+    opacity: 0.3;
+}
+.pr{
+    color: #0065c3;
+    
+}
